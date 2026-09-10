@@ -238,3 +238,6 @@ This repository serves as the official landing page for Wild Metal. The software
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Wild Metal today!**
+
+---
+**Last updated:** 2026-09-10 18:11:04 UTC
